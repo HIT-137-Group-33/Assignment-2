@@ -1,0 +1,12 @@
+=== Seasonal Averages ===
+Summer: 32.1 °C
+Autumn: 27.3 °C
+Winter: 21.1 °C
+Spring: 27.4 °C
+
+=== Largest Temperature Range ===
+BOURKE-AIRPORT-AWS : Range 24.4 °C (Max: 43.0 °C, Min: 18.5 °C)
+
+=== Temperature Stability ===
+Most Stable: DARWIN-AIRPORT : StdDev 1.2 °C
+Most Variable: WAGGA-WAGGA-AMO : StdDev 6.9 °C
